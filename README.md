@@ -1,1 +1,1 @@
-ai-ml-project-week2
+ai-ml-project-garbage-classification
